@@ -34,6 +34,9 @@ Role Based Access Control Application
    + **View Roles:** View all roles assigned to logged in user
    + **Access Resource:** Check user has access of resource with action type
 
+6. **tests.py :** It contains unit test cases for all functionalities of admin and normal user.
+   
+
 ## Init System
 
    RBAC class contains **\__init__** function to create following objetcs:
